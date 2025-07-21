@@ -1,11 +1,10 @@
-## Projects description
+# Projects 
+- [CycleGAN](https://github.com/casanchezbar/kaggle_csanchez/blob/main/cyclegan/cyclegan-in-pytorch.ipynb): This project focuses on tranfering the Monet paiting style to images. The model is implemented in PyTorch, following a CycleGAN architecture.
 
-- [CycleGAN](https://github.com/casanchezbar/kaggle_csanchez/blob/main/cyclegan/cyclegan-in-pytorch.ipynb): This project focuses on tranfer to an image the Monet paiting style. For model implementation I follow a CycleGAN implementation in Pytorch
+- [Disaster Tweets](https://github.com/casanchezbar/kaggle_csanchez/blob/main/disaster-tweets/disaster-tweets-with-nlp-and-pytorch.ipynb): An NLP problem implemented in PyTorch to validate whether a tweet is a real disaster notification.
 
-- [Disaster Tweets](https://github.com/casanchezbar/kaggle_csanchez/blob/main/disaster-tweets/disaster-tweets-with-nlp-and-pytorch.ipynb): A NLP in Pytorch problem implementation for validating if a tweet was a real desaster notification.
+- [Cancer Detection](https://github.com/casanchezbar/kaggle_csanchez/blob/main/histopathologic_cancer_detection/cancer-detection-using-cnn-and-pytorch.ipynb): Performs binary classification on digital pathology scans of lymph node section images using CNNs and PyTorch.
 
-- [Cancer Detection](https://github.com/casanchezbar/kaggle_csanchez/blob/main/histopathologic_cancer_detection/cancer-detection-using-cnn-and-pytorch.ipynb): Perform binary classification digital pathology scans of lymph node sections images using CNN and Pytorch
+- [Retinal OCT (Optical Coherence Tomography) diseases classification](https://github.com/casanchezbar/kaggle_csanchez/blob/main/retinal_oct/retinaloct-with-pytorch.ipynb): Diagnoses retinal OCT images using CNNs and PyTorch.
 
-- [Retinal OCT (Optical Coherence Tomography) diseases classification](https://github.com/casanchezbar/kaggle_csanchez/blob/main/retinal_oct/retinaloct-with-pytorch.ipynb): Diagnose Retinal OCT's using CNN and Pytorch
-
-- [Water Pollution Analysis](https://github.com/casanchezbar/kaggle_csanchez/blob/main/water_pollution_analysis/impactwaterpollution.ipynb): Explores the relationship between water quality indicators and the prevalence of waterborne diseases (such as diarrhea, cholera, and typhoid), regression problem.
+- [Water Pollution Analysis](https://github.com/casanchezbar/kaggle_csanchez/blob/main/water_pollution_analysis/impactwaterpollution.ipynb): Explores the relationship between water quality indicators and the prevalence of waterborne diseases (such as diarrhea, cholera, and typhoid) as a regression problem.
